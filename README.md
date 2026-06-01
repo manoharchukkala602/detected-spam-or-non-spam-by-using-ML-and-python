@@ -1,4 +1,4 @@
-## functionalaty:
+## functionality:
 it can be detected if message is the spam or non spame 
 it analyze the smartly
 it can analyze the accaracy_score
