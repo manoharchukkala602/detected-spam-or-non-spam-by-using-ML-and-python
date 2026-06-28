@@ -1,0 +1,19 @@
+data ={
+    
+        "message":["hello bro",
+        "how are you",
+        "you win price",
+        "you win offer",
+        "offer loan from bajaj finance",
+        "data percentage",
+    
+    ],
+    
+        "labels":["spam",
+        "harm",
+        "spame",
+        "harm",
+        "spam",
+        "harm",
+    ]
+}
