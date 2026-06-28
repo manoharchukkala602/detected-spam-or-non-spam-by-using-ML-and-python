@@ -1,0 +1,7 @@
+from sklearn.feature_extraction.text import CountVectorizer  ==1.8.0
+from sklearn.naive_bayes import MultinomialNB ==1.8.0
+pandas 
+from sklearn.model_selection import train_test_split ==1.8.0
+from sklern.metrics import accuracy_score ==1.8.0
+
+
